@@ -1,3 +1,9 @@
+React Native Todo-List
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/bb11a65b-0e3e-4fd0-94a5-cf791e165ff4">
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
