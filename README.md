@@ -1,4 +1,4 @@
-React Native Todo-List
+React Native Todo-List Mobile App
 <img width="1085" alt="image" src="https://github.com/user-attachments/assets/bb11a65b-0e3e-4fd0-94a5-cf791e165ff4">
 
 
